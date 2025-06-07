@@ -1,0 +1,458 @@
+[
+  {
+    "nome_unidade": "USF COQUEIRAL I",
+    "endereco": "R LUIZ REGIS, S/N",
+    "bairro": "COQUEIRAL",
+    "distrito_sanitario": "VI",
+    "telefone": "3355-8127",
+    "especialidades": ["Clínica Médica", "Odontologia"],
+    "horario_funcionamento": "07:00 ÀS 19:00",
+    "latitude": -8.100578,
+    "longitude": -34.952915
+  },
+  {
+    "nome_unidade": "USF IPSEP I",
+    "endereco": "AV IPSEP, 2511",
+    "bairro": "IPSEP",
+    "distrito_sanitario": "VI",
+    "telefone": "3355-8184",
+    "especialidades": ["Clínica Médica", "Enfermagem", "Odontologia"],
+    "horario_funcionamento": "07:00 ÀS 19:00",
+    "latitude": -8.113378,
+    "longitude": -34.920807
+  },
+  {
+    "nome_unidade": "USF VÁRZEA",
+    "endereco": "AV AFONSO OLINDO, 100",
+    "bairro": "VÁRZEA",
+    "distrito_sanitario": "IV",
+    "telefone": "3355-8065",
+    "especialidades": ["Pediatria", "Clínica Geral"],
+    "horario_funcionamento": "07:00 ÀS 19:00",
+    "latitude": -8.046781,
+    "longitude": -34.954005
+  },
+  {
+    "nome_unidade": "USF AFOGADOS I",
+    "endereco": "R MARECHAL HERMES, 456",
+    "bairro": "AFOGADOS",
+    "distrito_sanitario": "V",
+    "telefone": "3355-8123",
+    "especialidades": ["Clínica Médica", "Enfermagem"],
+    "horario_funcionamento": "08:00 ÀS 17:00",
+    "latitude": -8.069584,
+    "longitude": -34.919273
+  },
+  {
+    "nome_unidade": "USF TORREÃO",
+    "endereco": "R ALMIRANTE TAMANDARÉ, 890",
+    "bairro": "TORREÃO",
+    "distrito_sanitario": "III",
+    "telefone": "3355-8170",
+    "especialidades": ["Ginecologia", "Pediatria"],
+    "horario_funcionamento": "08:00 ÀS 16:00",
+    "latitude": -8.042184,
+    "longitude": -34.891624
+  },
+  {
+    "nome_unidade": "USF ENCRUZILHADA",
+    "endereco": "R JERÔNIMO VILELA, 321",
+    "bairro": "ENCRUZILHADA",
+    "distrito_sanitario": "III",
+    "telefone": "3355-8212",
+    "especialidades": ["Clínica Médica", "Psicologia"],
+    "horario_funcionamento": "07:30 ÀS 17:30",
+    "latitude": -8.046811,
+    "longitude": -34.887742
+  },
+  {
+    "nome_unidade": "USF LINHA DO TIRO",
+    "endereco": "R LINS PETIT, 98",
+    "bairro": "LINHA DO TIRO",
+    "distrito_sanitario": "II",
+    "telefone": "3355-8282",
+    "especialidades": ["Odontologia", "Clínica Médica"],
+    "horario_funcionamento": "07:00 ÀS 18:00",
+    "latitude": -8.015264,
+    "longitude": -34.889320
+  },
+  {
+    "nome_unidade": "USF BREJO DE BEBERIBE",
+    "endereco": "AV PRINCIPAL, 125",
+    "bairro": "BREJO DE BEBERIBE",
+    "distrito_sanitario": "II",
+    "telefone": "3355-8256",
+    "especialidades": ["Pediatria", "Odontologia"],
+    "horario_funcionamento": "08:00 ÀS 16:00",
+    "latitude": -8.015901,
+    "longitude": -34.876401
+  },
+  {
+    "nome_unidade": "USF ARRUDA",
+    "endereco": "R NOVA DESCURBERTA, 201",
+    "bairro": "ARRUDA",
+    "distrito_sanitario": "II",
+    "telefone": "3355-8198",
+    "especialidades": ["Ginecologia", "Clínica Médica"],
+    "horario_funcionamento": "08:00 ÀS 17:00",
+    "latitude": -8.023541,
+    "longitude": -34.886430
+  },
+  {
+    "nome_unidade": "USF BEBERIBE",
+    "endereco": "R BEBERIBE, 654",
+    "bairro": "BEBERIBE",
+    "distrito_sanitario": "II",
+    "telefone": "3355-8241",
+    "especialidades": ["Clínica Médica", "Fonoaudiologia"],
+    "horario_funcionamento": "07:00 ÀS 19:00",
+    "latitude": -8.019478,
+    "longitude": -34.878252
+  },
+{
+  "nome_unidade": "USF CÓRREGO DO JENIPAPO",
+  "endereco": "AV PRINCIPAL DO JENIPAPO, 333",
+  "bairro": "CÓRREGO DO JENIPAPO",
+  "distrito_sanitario": "II",
+  "telefone": "3355-8232",
+  "especialidades": ["Clínica Médica", "Pediatria"],
+  "horario_funcionamento": "08:00 ÀS 17:00",
+  "latitude": -8.009842,
+  "longitude": -34.878169
+},
+{
+  "nome_unidade": "USF ALTO SANTA TEREZINHA",
+  "endereco": "R DAS MANGUEIRAS, 118",
+  "bairro": "ALTO SANTA TEREZINHA",
+  "distrito_sanitario": "II",
+  "telefone": "3355-8289",
+  "especialidades": ["Ginecologia", "Enfermagem"],
+  "horario_funcionamento": "07:00 ÀS 18:00",
+  "latitude": -8.007834,
+  "longitude": -34.875601
+},
+{
+  "nome_unidade": "USF ALTO JOSÉ DO PINHO",
+  "endereco": "R SANTA MARIA, 241",
+  "bairro": "ALTO JOSÉ DO PINHO",
+  "distrito_sanitario": "II",
+  "telefone": "3355-8291",
+  "especialidades": ["Clínica Médica", "Nutrição"],
+  "horario_funcionamento": "08:00 ÀS 16:00",
+  "latitude": -8.034261,
+  "longitude": -34.890557
+},
+{
+  "nome_unidade": "USF CASA AMARELA",
+  "endereco": "R PADRE LEMOS, 123",
+  "bairro": "CASA AMARELA",
+  "distrito_sanitario": "III",
+  "telefone": "3355-0001",
+  "especialidades": ["Clínica Geral", "Ginecologia"],
+  "horario_funcionamento": "07:30 ÀS 17:30",
+  "latitude": -8.034550,
+  "longitude": -34.903840
+},
+{
+  "nome_unidade": "USF JAQUEIRA",
+  "endereco": "R MONTEVIDÉU, 150",
+  "bairro": "JAQUEIRA",
+  "distrito_sanitario": "III",
+  "telefone": "3355-8077",
+  "especialidades": ["Clínica Médica", "Psicologia"],
+  "horario_funcionamento": "08:00 ÀS 17:00",
+  "latitude": -8.034789,
+  "longitude": -34.897710
+},
+{
+  "nome_unidade": "USF ESPINHEIRO",
+  "endereco": "AV JOÃO DE BARROS, 450",
+  "bairro": "ESPINHEIRO",
+  "distrito_sanitario": "III",
+  "telefone": "3355-8210",
+  "especialidades": ["Odontologia", "Clínica Médica"],
+  "horario_funcionamento": "07:00 ÀS 19:00",
+  "latitude": -8.043230,
+  "longitude": -34.895400
+},
+{
+  "nome_unidade": "USF DERBY",
+  "endereco": "R AMÉRICO VESPÚCIO, 300",
+  "bairro": "DERBY",
+  "distrito_sanitario": "I",
+  "telefone": "3355-8200",
+  "especialidades": ["Clínica Geral", "Fisioterapia"],
+  "horario_funcionamento": "08:00 ÀS 17:00",
+  "latitude": -8.058214,
+  "longitude": -34.889501
+},
+{
+  "nome_unidade": "USF SANTO AMARO",
+  "endereco": "R MÁRIO MELO, 800",
+  "bairro": "SANTO AMARO",
+  "distrito_sanitario": "I",
+  "telefone": "3355-8022",
+  "especialidades": ["Pediatria", "Clínica Médica", "Ginecologia"],
+  "horario_funcionamento": "07:00 ÀS 18:00",
+  "latitude": -8.057520,
+  "longitude": -34.882071
+},
+{
+  "nome_unidade": "USF ILHA DO RETIRO",
+  "endereco": "AV PREF. LINDOLFO COLLOR, 410",
+  "bairro": "ILHA DO RETIRO",
+  "distrito_sanitario": "I",
+  "telefone": "3355-8095",
+  "especialidades": ["Clínica Médica", "Enfermagem", "Odontologia"],
+  "horario_funcionamento": "08:00 ÀS 17:00",
+  "latitude": -8.066777,
+  "longitude": -34.898201
+},
+{
+  "nome_unidade": "USF SAN MARTIN",
+  "endereco": "R SÃO MIGUEL, 999",
+  "bairro": "SAN MARTIN",
+  "distrito_sanitario": "V",
+  "telefone": "3355-8150",
+  "especialidades": ["Psicologia", "Odontologia"],
+  "horario_funcionamento": "08:00 ÀS 17:00",
+  "latitude": -8.078611,
+  "longitude": -34.922102
+},
+{
+  "nome_unidade": "USF TORRE",
+  "endereco": "AV CAXANGÁ, 3456",
+  "bairro": "TORRE",
+  "distrito_sanitario": "III",
+  "telefone": "3355-8133",
+  "especialidades": ["Clínica Geral", "Ginecologia"],
+  "horario_funcionamento": "08:00 ÀS 16:00",
+  "latitude": -8.046392,
+  "longitude": -34.911231
+},
+{
+  "nome_unidade": "USF CAXANGÁ",
+  "endereco": "R PROFESSOR FERNANDES, 456",
+  "bairro": "CAXANGÁ",
+  "distrito_sanitario": "IV",
+  "telefone": "3355-8267",
+  "especialidades": ["Odontologia", "Pediatria", "Enfermagem"],
+  "horario_funcionamento": "07:00 ÀS 18:00",
+  "latitude": -8.052190,
+  "longitude": -34.934822
+},
+{
+  "nome_unidade": "USF IPUTINGA",
+  "endereco": "R SÃO FRANCISCO, 123",
+  "bairro": "IPUTINGA",
+  "distrito_sanitario": "IV",
+  "telefone": "3355-8188",
+  "especialidades": ["Psicologia", "Clínica Médica"],
+  "horario_funcionamento": "08:00 ÀS 17:00",
+  "latitude": -8.038913,
+  "longitude": -34.944910
+},
+{
+  "nome_unidade": "USF VARZEA II",
+  "endereco": "AV AFONSO OLINDO, 210",
+  "bairro": "VÁRZEA",
+  "distrito_sanitario": "IV",
+  "telefone": "3355-8066",
+  "especialidades": ["Clínica Geral", "Nutrição", "Odontologia"],
+  "horario_funcionamento": "07:00 ÀS 18:00",
+  "latitude": -8.045210,
+  "longitude": -34.957220
+},
+{
+  "nome_unidade": "USF COHAB",
+  "endereco": "AV CENTRAL DA COHAB, 456",
+  "bairro": "COHAB",
+  "distrito_sanitario": "VII",
+  "telefone": "3355-8190",
+  "especialidades": ["Pediatria", "Fisioterapia"],
+  "horario_funcionamento": "08:00 ÀS 17:00",
+  "latitude": -8.128311,
+  "longitude": -34.929900
+},
+{
+  "nome_unidade": "USF IBURA",
+  "endereco": "AV DOIS RIOS, 456",
+  "bairro": "IBURA",
+  "distrito_sanitario": "VII",
+  "telefone": "3355-0002",
+  "especialidades": ["Clínica Geral", "Odontologia", "Ginecologia"],
+  "horario_funcionamento": "08:00 ÀS 17:00",
+  "latitude": -8.113910,
+  "longitude": -34.923020
+},
+{
+  "nome_unidade": "USF MURIBECA DOS GUERREIROS",
+  "endereco": "R JOSÉ ALVES, 432",
+  "bairro": "MURIBECA",
+  "distrito_sanitario": "VII",
+  "telefone": "3355-8311",
+  "especialidades": ["Clínica Médica", "Odontologia"],
+  "horario_funcionamento": "07:00 ÀS 19:00",
+  "latitude": -8.156712,
+  "longitude": -34.962201
+},
+{
+  "nome_unidade": "USF TOTÓ",
+  "endereco": "R GERALDO MAGALHÃES, 890",
+  "bairro": "TOTÓ",
+  "distrito_sanitario": "VII",
+  "telefone": "3355-8388",
+  "especialidades": ["Clínica Geral", "Pediatria"],
+  "horario_funcionamento": "08:00 ÀS 17:00",
+  "latitude": -8.090221,
+  "longitude": -34.976530
+},
+{
+  "nome_unidade": "USF ESTÂNCIA",
+  "endereco": "R MANOEL DE MELO, 101",
+  "bairro": "ESTÂNCIA",
+  "distrito_sanitario": "VII",
+  "telefone": "3355-8322",
+  "especialidades": ["Odontologia", "Enfermagem"],
+  "horario_funcionamento": "07:30 ÀS 17:00",
+  "latitude": -8.097620,
+  "longitude": -34.960012
+},
+{
+  "nome_unidade": "USF CURADO",
+  "endereco": "R FLOR DE LIS, 303",
+  "bairro": "CURADO",
+  "distrito_sanitario": "VII",
+  "telefone": "3355-8422",
+  "especialidades": ["Clínica Médica", "Ginecologia", "Psicologia"],
+  "horario_funcionamento": "08:00 ÀS 17:00",
+  "latitude": -8.125540,
+  "longitude": -34.951111
+},
+{
+  "nome_unidade": "USF ZUMBI",
+  "endereco": "R DO ZUMBI, 400",
+  "bairro": "ZUMBI",
+  "distrito_sanitario": "VII",
+  "telefone": "3355-8450",
+  "especialidades": ["Pediatria", "Clínica Médica"],
+  "horario_funcionamento": "08:00 ÀS 17:00",
+  "latitude": -8.116221,
+  "longitude": -34.968311
+},
+{
+  "nome_unidade": "USF JORDÃO BAIXO",
+  "endereco": "R SEVERINO PEREIRA, 27",
+  "bairro": "JORDÃO",
+  "distrito_sanitario": "VII",
+  "telefone": "3355-8192",
+  "especialidades": ["Clínica Geral", "Odontologia"],
+  "horario_funcionamento": "07:30 ÀS 16:30",
+  "latitude": -8.140112,
+  "longitude": -34.928716
+},
+{
+  "nome_unidade": "USF IMBIRIBEIRA",
+  "endereco": "AV RECIFE, 456",
+  "bairro": "IMBIRIBEIRA",
+  "distrito_sanitario": "VI",
+  "telefone": "3355-8281",
+  "especialidades": ["Enfermagem", "Odontologia", "Clínica Médica"],
+  "horario_funcionamento": "08:00 ÀS 17:00",
+  "latitude": -8.103010,
+  "longitude": -34.915000
+},
+{
+  "nome_unidade": "USF BOA VIAGEM I",
+  "endereco": "R PROF EDUARDO WANDERLEY FILHO, 539",
+  "bairro": "BOA VIAGEM",
+  "distrito_sanitario": "VI",
+  "telefone": "3355-0000",
+  "especialidades": ["Clínica Geral", "Pediatria", "Ginecologia"],
+  "horario_funcionamento": "07:00 ÀS 19:00",
+  "latitude": -8.127854,
+  "longitude": -34.900172
+},
+{
+  "nome_unidade": "USF PINA",
+  "endereco": "AV HERCULANO BANDEIRA, 700",
+  "bairro": "PINA",
+  "distrito_sanitario": "VI",
+  "telefone": "3355-8101",
+  "especialidades": ["Psicologia", "Clínica Médica"],
+  "horario_funcionamento": "08:00 ÀS 17:00",
+  "latitude": -8.113200,
+  "longitude": -34.878555
+},
+{
+  "nome_unidade": "USF BRASÍLIA TEIMOSA",
+  "endereco": "R DA AURORA, 215",
+  "bairro": "BRASÍLIA TEIMOSA",
+  "distrito_sanitario": "VI",
+  "telefone": "3355-8055",
+  "especialidades": ["Clínica Médica", "Odontologia", "Pediatria"],
+  "horario_funcionamento": "07:00 ÀS 18:00",
+  "latitude": -8.110100,
+  "longitude": -34.871200
+},
+{
+  "nome_unidade": "USF SÃO JOSÉ",
+  "endereco": "R IMPERATRIZ, 150",
+  "bairro": "SÃO JOSÉ",
+  "distrito_sanitario": "I",
+  "telefone": "3355-8222",
+  "especialidades": ["Clínica Geral", "Ginecologia"],
+  "horario_funcionamento": "08:00 ÀS 16:00",
+  "latitude": -8.063811,
+  "longitude": -34.872109
+},
+{
+  "nome_unidade": "USF ILHA JOANA BEZERRA",
+  "endereco": "R DO SOL, 555",
+  "bairro": "ILHA JOANA BEZERRA",
+  "distrito_sanitario": "I",
+  "telefone": "3355-8033",
+  "especialidades": ["Clínica Médica", "Odontologia"],
+  "horario_funcionamento": "08:00 ÀS 17:00",
+  "latitude": -8.073320,
+  "longitude": -34.877900
+},
+{
+  "nome_unidade": "USF CABANGA",
+  "endereco": "R DO NAVIO, 42",
+  "bairro": "CABANGA",
+  "distrito_sanitario": "I",
+  "telefone": "3355-8042",
+  "especialidades": ["Enfermagem", "Clínica Médica"],
+  "horario_funcionamento": "07:30 ÀS 17:30",
+  "latitude": -8.081201,
+  "longitude": -34.878301
+},
+{
+  "nome_unidade": "USF SANTO ANTÔNIO",
+  "endereco": "R DAS PALMEIRAS, 777",
+  "bairro": "SANTO ANTÔNIO",
+  "distrito_sanitario": "I",
+  "telefone": "3355-8080",
+  "especialidades": ["Clínica Geral", "Psicologia", "Fonoaudiologia"],
+  "horario_funcionamento": "08:00 ÀS 16:00",
+  "latitude": -8.064321,
+  "longitude": -34.878812
+},
+{
+  "nome_unidade": "USF PAISSANDU",
+  "endereco": "AV PAISSANDU, 123",
+  "bairro": "PAISSANDU",
+  "distrito_sanitario": "I",
+  "telefone": "3355-8277",
+  "especialidades": ["Clínica Geral", "Odontologia", "Enfermagem"],
+  "horario_funcionamento": "07:00 ÀS 18:00",
+  "latitude": -8.058111,
+  "longitude": -34.883812
+}
+]
+
+
+
+  
+

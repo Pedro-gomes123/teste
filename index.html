@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>InfoSaúde Recife</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <link rel="stylesheet" href="css/style.css" />
+  <script defer src="js/main-leaflet.js"></script>
+</head>
+<body>
+
+  <header>
+    <img src="logo.png" alt="Logo InfoSaúde" class="logo-nav" />
+    <nav class="menu-scroll">
+      <a href="index.html">Início</a>
+      <a href="dicas.html">Dicas de Saúde</a>
+      <a href="missao.html">Missão</a>
+      <a href="#contato">Contato</a>
+      <a href="#mapa">Mapa</a>
+    </nav>
+  </header>
+
+ 
+
+  <section class="filtros">
+    <label for="filtro-bairro">Bairro:</label>
+    <select id="filtro-bairro"></select>
+
+    <label for="filtro-especialidade">Especialidade:</label>
+    <select id="filtro-especialidade"></select>
+
+    <label for="filtro-distrito">Distrito:</label>
+    <select id="filtro-distrito"></select>
+
+    <button id="btn-pesquisar">Pesquisar</button>
+  </section>
+
+    <section class="card-grid">
+    <div class="card">
+      <h2>Dicas de Saúde</h2>
+      <p>Confira dicas essenciais para manter sua saúde em dia, prevenir doenças e melhorar sua qualidade de vida. Informação confiável e prática para o seu dia a dia!</p>
+      <a href="dicas.html" class="btn-cta">Saiba mais</a>
+    </div>
+    <div class="card">
+      <h2>Missão</h2>
+      <p>A InfoSaúde Recife nasce com o propósito de transformar a experiência do usuário com o sistema público de saúde em Recife, conectando pessoas à informação correta, no momento certo e no local certo. Com uma abordagem centrada no cidadão, promovemos acesso, eficiência e inclusão digital para uma saúde pública mais próxima, humana e resolutiva.</p>
+      <a href="./missao.html" class="btn-cta">Saiba mais</a>
+    </div>
+  </section>
+
+  <section class="resultados">
+    
+    <div id="postos-container"></div>
+  </section>
+
+  <section id="mapa">
+    <div id="map" class="map-container"></div>
+    <button id="btn-mais-proximo">Posto mais próximo</button>
+    <div id="posto-mais-proximo"></div>
+  </section>
+
+  
+  <footer id="contato">
+    <h2>Contato</h2>
+    <p> Cais do Apolo, 925 - Recife - PE</p>
+    <p> (81) 3355-8000</p>
+    <p> contato@infosaude.recife.pe.gov.br</p>
+    <h3>Emergências</h3>
+    <p> SAMU: 192</p>
+    <p> Bombeiros: 193</p>
+    <p> Central de Atendimento: 0800 281 1520</p>
+    <p>&copy; 2025 InfoSaúde Recife</p>
+  </footer>
+
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="js/animacao-entrada.js"></script>
+</body>
+</html>
+
